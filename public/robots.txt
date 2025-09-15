@@ -1,0 +1,9 @@
+User-agent: *
+Allow: /
+
+# Sitemap location
+Sitemap: https://www.santellafix.com.br/sitemap.xml
+
+# Santella - Cavilhas de madeira de alta qualidade
+# Nova Pádua - RS - Brasil
+# Telefone: (54) 3296-1360

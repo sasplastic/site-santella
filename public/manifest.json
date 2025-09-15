@@ -1,0 +1,16 @@
+{
+  "name": "Santella - Cavilhas de Madeira",
+  "short_name": "Santella",
+  "description": "Especialista em cavilhas de pinus e eucalipto desde 2001",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#f5f5eb",
+  "theme_color": "#0e8d45",
+  "icons": [
+    {
+      "src": "/favicon.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
