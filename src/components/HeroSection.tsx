@@ -45,7 +45,7 @@ const HeroSection = () => {
           </div>
 
           {/* FSC Certification Card - Enhanced */}
-          <Card className="max-w-xl mx-auto mb-12 shadow-elegant border-santella-green-dark/20 bg-gradient-subtle">
+          <Card className="max-w-xl mx-auto mb-12 shadow-elegant border-santella-green-dark/20 bg-white/20 backdrop-blur-sm">
             <CardContent className="p-10 text-center">
               <div className="flex justify-center mb-6">
                 <div className="bg-white rounded-md p-5 shadow-santella">
@@ -53,10 +53,10 @@ const HeroSection = () => {
                 </div>
               </div>
               <h3 className="text-xl font-bold text-santella-text-dark mb-3">
-                Compromisso com o meio ambiente (FSC)
+                Compromisso com o futuro
               </h3>
               <p className="text-santella-text-dark/90 text-base leading-relaxed">
-                Matéria prima adquirida de fornecedores que seguem práticas responsáveis de manejo ambiental.
+                Matéria prima adquirida de fornecedores que seguem práticas responsáveis de utilização de mão de obra e manejo ambiental consciente, seguindo normas de conduta internacional.
               </p>
             </CardContent>
           </Card>
